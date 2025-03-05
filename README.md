@@ -48,6 +48,5 @@ This project is designed to enhance customer service and retailer management thr
 - Add **multi-language support** for better accessibility.
 
 ---
-## **Contributing**
-Feel free to contribute by submitting **feature requests** or reporting **bugs** via GitHub Issues. Let’s build this system together! 🚀
+
 
